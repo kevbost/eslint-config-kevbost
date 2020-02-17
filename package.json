@@ -1,10 +1,25 @@
 {
-  "name": "eslint-config-kb-default",
-  "version": "1.0.0",
-  "description": "My recommended eslint configuration.",
+  "name": "eslint-config-kevbost",
+  "version": "0.0.9",
+  "description": "A strict eslint configuration extending recommendations from eslint, react, import, and jsx-a11y.",
   "main": "index.js",
   "author": "Kevin Bost",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevbost/eslint-config-kevbost.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-config-kevbost",
+    "kevbost",
+    "kevinbost"
+  ],
+  "bugs": {
+    "url": "https://github.com/kevbost/eslint-config-kevbost/issues"
+  },
+  "homepage": "https://github.com/kevbost/eslint-config-kevbost#readme",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
