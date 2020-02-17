@@ -49,11 +49,10 @@ module.exports = {
       'before': true,
       'after': true
     }],
-    'newline-before-return': 'error',
     'newline-per-chained-call': [ 'error', {
       'ignoreChainWithDepth': 2
     }],
-    'no-console': [ 'error', {
+    'no-console': [ 'warn', {
       'allow': [ 'warn', 'error' ]
     }],
     'no-duplicate-imports': 'error',
