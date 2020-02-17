@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kevbost",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "A strict eslint configuration extending recommendations from eslint, react, import, and jsx-a11y.",
   "main": "index.js",
   "author": "Kevin Bost",
