@@ -447,6 +447,14 @@ eslint-config-esnext@^4.0.0:
     eslint-plugin-babel "^5.2.1"
     eslint-plugin-import "^2.14.0"
 
+eslint-config-kevbost@^1.0.2-1:
+  version "1.0.2-1"
+  resolved "https://registry.yarnpkg.com/eslint-config-kevbost/-/eslint-config-kevbost-1.0.2-1.tgz#04d413e12dce3d54c4a026b9baee5a18c08f62e2"
+  integrity sha512-EBOsxQ6xp52cnGvcN2jUm2s3N0SPOJav0c+mYB/FCls45dQd+DDuVUYY4uEr5wkgL1gJXKgtvVXfZgeroq4Ufw==
+  dependencies:
+    eslint-config-recommended "^4.0.0"
+    eslint-plugin-jsx-a11y "^6.2.3"
+
 eslint-config-node@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-node/-/eslint-config-node-4.0.0.tgz#4ebb40defd29a261ce2e7f6fe1b2d7aee38cf2a5"
