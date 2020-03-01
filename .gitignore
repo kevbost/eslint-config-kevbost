@@ -41,4 +41,4 @@ typings/
 .env.test
 
 # custom
-test.js
+test-file.js
