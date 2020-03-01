@@ -88,7 +88,10 @@ module.exports = {
       }
     }],
     'object-property-newline': 'error',
-    'object-curly-spacing': [ 'error', 'always' ],
+    'object-curly-spacing': [ 'error', 'always', {
+      'arraysInObjects': false,
+      'objectsInObjects': false
+    }],
     'one-var': [ 'error', {
       'var': 'never',
       'let': 'never',
