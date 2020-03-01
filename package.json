@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-kevbost",
-  "version": "1.0.2-2",
+  "version": "1.0.2-1",
   "description": "A strict eslint configuration extending recommendations from eslint, react, import, and jsx-a11y.",
   "main": "index.js",
   "author": "Kevin Bost",
@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/kevbost/eslint-config-kevbost#readme",
   "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-kevbost": "^1.0.2-1"
+    "eslint": "^6.8.0"
   },
   "peerDependencies": {
     "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0"
